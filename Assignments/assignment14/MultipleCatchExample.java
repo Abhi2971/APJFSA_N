@@ -21,7 +21,7 @@ public class MultipleCatchExample {
         }
     }
 }
-
+   
 /*
 OUTPUT
 Error: Null value encountered!
