@@ -1,4 +1,4 @@
-public class Q1 {
+public class Ass3Q1 {
     public static void main(String[] args) {
         byte age = 25;
         short year = 2024;

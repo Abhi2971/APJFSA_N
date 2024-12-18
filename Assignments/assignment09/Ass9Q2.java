@@ -49,7 +49,7 @@ class Triangle implements Shape {
 }
 
 // Main.java
-public class Q2 {
+public class Ass9Q2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

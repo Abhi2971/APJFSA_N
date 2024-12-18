@@ -1,4 +1,4 @@
-public class BankCustomer {
+public class BankCustomer2 {
     private int acno;
     private String atype;
     private double amt;

@@ -1,4 +1,4 @@
-public class Lab_Q2{
+public class Ass11Lab_Q2{
 	public static void main(String[] args){
 		//Unboxing
 		//implicit

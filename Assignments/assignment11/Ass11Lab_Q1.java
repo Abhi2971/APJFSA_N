@@ -1,4 +1,4 @@
-public class Lab_Q1{
+public class Ass11Lab_Q1{
 	public static void main(String[] args){
 		//Auoboxing
 		int id =10;

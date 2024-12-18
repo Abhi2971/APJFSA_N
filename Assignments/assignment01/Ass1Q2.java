@@ -1,4 +1,4 @@
-public class Q2 {
+public class Ass1Q2 {
     public static void main(String[] args) {
         byte b = 100;            // 1 byte
         short s = 10000;        // 2 bytes

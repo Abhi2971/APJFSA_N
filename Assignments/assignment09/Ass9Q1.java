@@ -18,7 +18,7 @@ class Teacher implements Person {
 }
 
 // Main.java
-public class Q1 {
+public class Ass9Q1 {
     public static void main(String[] args) {
         Person student = new Student();
         Person teacher = new Teacher();
